@@ -1,4 +1,4 @@
-<h1 align="center">``root@github:~$`` whoami</h1> 
+<h1 align="center">*root@github:~$* whoami</h1> 
 
 ``` bash
 #!/usr/bin/zsh
