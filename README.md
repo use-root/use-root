@@ -20,7 +20,11 @@ presentation "Only a guy!"
 ``user@github:~$`` cat ~/languages.txt
 
 ``>`` Python: scripting & automation
+
 ``>`` Java: OOP & small projects
+
 ``>`` JavaScript: React basics
+
 ``>`` HTML/CSS/SCSS: UI & design
+
 ``>`` Bash: terminal & automation
