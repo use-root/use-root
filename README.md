@@ -1,4 +1,4 @@
-<h1 align="center" text-color="red">Heey! </h1>
+<h1 align="center" color="red">Heey! </h1>
 
 ---
 
