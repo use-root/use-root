@@ -19,7 +19,7 @@ presentation "Only a guy!"
 
 ``user@github:~$`` cat ~/languages.txt
 
-``>`` Python: scripting & automation
+<p>``>`` Python: scripting & automation</p>
 
 ``>`` Java: OOP & small projects
 
