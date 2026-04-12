@@ -14,11 +14,12 @@ presentation () {
 
 presentation "Only a guy!"
 
-Languages:
-
-``user#`` Python *(basic, scripting & automation)*
-``user#`` Java *(OOP, small projects)*
-``user#`` JavaScript *(React basics)*
-``user#`` HTML, CSS, SCSS *(Design)*
-``user#`` Bash / Terminal
 ```
+
+``user#`` cat ~/Languages:
+
+|1 Python *(basic, scripting & automation)*
+|2 Java *(OOP, small projects)*
+|3 JavaScript *(React basics)*
+|4 HTML, CSS, SCSS *(Design)*
+|5 Bash / Terminal
