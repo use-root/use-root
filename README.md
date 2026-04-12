@@ -1,4 +1,4 @@
-<h1 align="center">*root@github:~$* whoami</h1> 
+<h1 align="center">root@github:~$ whoami</h1> 
 
 ``` bash
 #!/usr/bin/zsh
@@ -6,9 +6,10 @@
 presentation () {
    echo "\n [*] Hi, I'm $1"
    echo "\n [!] I like building small programs to improve my workflow"
-   echo "\n [?] Currently I'm studying at university, it's my first year!"
+   echo "\n [?] Currently I'm in my first year of university!"
    echo "\n [>] Interested in cybersecurity (Red Team) and Web Development"
-   echo "\n [@] LinkedIn: linkedin.com/in/ezequiel-cordova-1334583b5"
+   echo "\n--------------------------------"
+   echo "\n [@] linkedin.com/in/ezequiel-cordova-1334583b5 \n"
    exit 0;
 }
 
