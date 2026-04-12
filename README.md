@@ -1,5 +1,7 @@
 <h1 align="center">root@github:~$ whoami</h1> 
 
+> ``user@github:~$`` echo "Welcome to my github"
+
 ``` bash
 #!/usr/bin/zsh
 
@@ -7,9 +9,9 @@ presentation () {
    echo "\n [*] Hi, I'm $1"
    echo "\n [!] I like building small programs to improve my workflow"
    echo "\n [?] Currently I'm in my first year of university!"
-   echo "\n [>] Interested in cybersecurity (Red Team) and Web Development"
    echo "\n--------------------------------"
-   echo "\n [@] linkedin.com/in/ezequiel-cordova-1334583b5 \n"
+   echo "\n [>] Interested in: cybersecurity (Red Team) and Web Development"
+   echo "\n [@] LinkedIn: linkedin.com/in/ezequiel-cordova-1334583b5 \n"
    exit 0;
 }
 
@@ -19,12 +21,8 @@ presentation "Only a guy!"
 
 ``user@github:~$`` cat ~/languages.txt
 
-<p>``>`` Python: scripting & automation</p>
-
-``>`` Java: OOP & small projects
-
-``>`` JavaScript: React basics
-
-``>`` HTML/CSS/SCSS: UI & design
-
-``>`` Bash: terminal & automation
+- Python: scripting & automation
+- Java: OOP & small projects
+- JavaScript: React basics
+- HTML/CSS/SCSS: UI & design
+- Bash: terminal & automation
