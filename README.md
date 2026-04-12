@@ -4,11 +4,11 @@
 
 **Languages:**
 
-- 󰦆 Html,CSS SCSS
--  JavaScript, React
--  Java
--  Python
--  Bash
+-  Html,CSS SCSS
+-  JavaScript, React
+-  Java
+-  Python
+- \ue760 Bash
 
 
 ``` bash
