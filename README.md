@@ -16,8 +16,8 @@ presentation "Only a guy!"
 ```
 **Languages:**
 
-> Python *(basic, scripting & automation)*
-> Java *(OOP, small projects)*
-> JavaScript *(React basics)*
+``>`` Python *(basic, scripting & automation)*
+``>`` Java *(OOP, small projects)*
+``> JavaScript *(React basics)*
 > HTML, CSS, SCSS *(Design)*
 > Bash / Terminal
